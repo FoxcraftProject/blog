@@ -24,3 +24,18 @@ spikey:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/spikehidden"
+
+spikey:
+  name   : "Bea"
+  avatar : ""
+  bio    : ""
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/BeaDieErste"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://craftodon.social/@BeaDieErste"
+    - label: "Twitch"
+      icon: "fab fa-fw fa-twitch"
+      url: "https://twitch.tv/BeaDieErste"
