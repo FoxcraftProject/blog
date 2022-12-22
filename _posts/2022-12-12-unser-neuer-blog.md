@@ -1,7 +1,7 @@
 ---
 title: "Unser neuer Blog!"
 date: 2022-12-12 20:15:00
-# last_modified_at: 2016-03-09T16:20:02-05:00
+last_modified_at: 2022-12-22T12:38:00
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
@@ -13,7 +13,7 @@ author: "spikey"
 ---
 
 Hey Leute!  
-Wilkommen in unserem neuen und auch ersten Blog für unseren Minecraft Server {{ site.hyperlink.foxcraft }}.
+Willkommen in unserem neuen und auch ersten Blog für unseren Minecraft Server {{ site.hyperlink.foxcraft }}.
 
 <h2>Wozu dieser Blog?</h2>
 
