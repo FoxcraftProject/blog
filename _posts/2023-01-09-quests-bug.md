@@ -1,5 +1,5 @@
 ---
-title: "Probleme mit dem Quest Plugin"
+title: Probleme mit dem Quest Plugin
 date: 2023-01-09 15:50:00
 # last_modified_at: 2023-01-09 14:51:00
 # excerpt_separator: "<!--more-->"
@@ -11,7 +11,7 @@ tags:
   - Blog
   - Foxcraft
   - Bug
-author: "spikey"
+author: spikey
 ---
 
 Ein neues Jahr kommt und der erste Beitrag ist gleich was negatives...\
