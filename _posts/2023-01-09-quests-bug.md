@@ -1,5 +1,6 @@
 ---
-title: Probleme mit dem Quest Plugin
+layout: single
+title: "Probleme mit dem Quest Plugin"
 date: 2023-01-09 15:50:00
 # last_modified_at: 2023-01-09 14:51:00
 # excerpt_separator: "<!--more-->"
