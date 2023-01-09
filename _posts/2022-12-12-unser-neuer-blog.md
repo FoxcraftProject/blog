@@ -5,6 +5,7 @@ last_modified_at: 2022-12-22T12:38:00
 excerpt: Willkommen in unserem neuen und auch ersten Blog für unseren Minecraft Server Foxcraft.biz.
 categories:
   - Blog
+  - HELP!
 tags:
   - Blog
   - Foxcraft
