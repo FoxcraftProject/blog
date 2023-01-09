@@ -12,7 +12,7 @@ tags:
 author: "spikey"
 ---
 
-Ein neues Jahr kommt und der erste Beitrag ist gleich was negatives...\
+Ein neues Jahr kommt und der erste Beitrag ist gleich was negatives...  
 Dennoch wünsche ich euch allen erstmal ein **Frohes Neues Jahr 2023**!!
 
 ## Probleme mit Quests?

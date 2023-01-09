@@ -2,7 +2,7 @@
 title: "Unser neuer Blog!"
 date: 2022-12-12 20:15:00
 last_modified_at: 2022-12-22T12:38:00
-excerpt: Willkommen in unserem neuen und auch ersten Blog für unseren Minecraft Server Foxcraft.biz.
+excerpt: Willkommen in unserem neuen "und" auch ersten Blog für unseren Minecraft Server Foxcraft.biz.
 categories:
   - Blog
 tags:
