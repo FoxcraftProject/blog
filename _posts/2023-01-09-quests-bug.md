@@ -1,7 +1,7 @@
 ---
 title: "Probleme mit dem Quest Plugin"
 date: 2023-01-09 15:50:00
-excerpt: Einige von euch haben bestimt schon bemerkt, dass ihr nach einem Neustart des Servers alle Quests manchmal nochmal machen müsst. Dies ist dadurch geschulded, dass wahrscheinlich das Quest Plugin "Quests" die Questdaten für Spieler versehentlich löschen tut. Ich vermute stark, dass es daran liegt, weil diese durch irgendetwas beschädigt werden. Ich vermute allerdings einen Fehler beim Plugin selbst.
+excerpt: Einige von euch haben bestimt schon bemerkt, dass ihr nach einem Neustart des Servers alle Quests manchmal nochmal machen müsst. Dies ist dadurch geschulded, dass wahrscheinlich das Quest Plugin "Quests" die Questdaten für Spieler versehentlich löschen tut.
 categories:
   - Blog
   - Bugs
