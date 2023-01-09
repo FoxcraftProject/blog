@@ -1,10 +1,10 @@
 ---
 title: "Probleme mit dem Quest Plugin"
 layout: post
-date: 2023-01-09
+date: 2023-01-09 15:50:00
 # last_modified_at: 2023-01-09 14:51:00
 # excerpt_separator: "<!--more-->"
-excerpt: Einige von euch haben bestimt schon bemerkt, dass ihr nach einem Neustart des Servers alle Quests manchmal nochmal machen müsst. Dies ist daurch geschulded, dass wahrscheinlich das Quest Plugin "Quests" die Questdaten für Spieler versehentlich löschen tut. Ich vermute stark, dass es daran liegt, weil diese durch irgendetwas beschädigt werden. Ich vermute allerdings einen Fehler beim Plugin selbst.
+excerpt: Einige von euch haben bestimt schon bemerkt, dass ihr nach einem Neustart des Servers alle Quests manchmal nochmal machen müsst. Dies ist dadurch geschulded, dass wahrscheinlich das Quest Plugin "Quests" die Questdaten für Spieler versehentlich löschen tut. Ich vermute stark, dass es daran liegt, weil diese durch irgendetwas beschädigt werden. Ich vermute allerdings einen Fehler beim Plugin selbst.
 categories:
   - Blog
   - Bugs
@@ -21,7 +21,7 @@ Dennoch wünsche ich euch allen erstmal ein **Frohes Neues Jahr 2023**!!
 ## Probleme mit Quests?
 
 Einige (vermutlich fast alle) von euch haben bestimt schon bemerkt, dass ihr nach einem Neustart des Servers alle Quests manchmal nochmal machen müsst.\
-Dies ist daurch geschulded, dass wahrscheinlich das Quest Plugin "[Quests](https://spikey.biz/d6c7)" die Questdaten für Spieler "versehentlich" löschen tut. Ich vermute stark, dass es daran liegt, weil diese durch irgendetwas beschädigt werden. Ich vermute allerdings einen Fehler beim Plugin selbst.
+Dies ist dadurch geschulded, dass wahrscheinlich das Quest Plugin "[Quests](https://spikey.biz/d6c7)" die Questdaten für Spieler versehentlich löschen tut. Ich vermute stark, dass es daran liegt, weil diese durch irgendetwas beschädigt werden. Ich vermute allerdings einen Fehler beim Plugin selbst.
 
 <!--more-->
 
