@@ -1,7 +1,7 @@
 ---
 title: "Bye bye Claim Chunk"
 date: 2023-03-02 15:04:00
-excerpt: Claim Chunk verabschiedet sich von Foxcraft, also haltet euch lieber ran zu Towny zu welchseln, wenn ihr es noch nicht getan habt!
+excerpt: Claim Chunk verabschiedet sich von Foxcraft, also haltet euch lieber ran zu Towny zu welchseln, wenn ihr es noch nicht getan habt.
 categories:
   - Blog
   - Plugins
@@ -13,7 +13,7 @@ tags:
   - Claim
   - Chunk
   - Plugins
-author: "spikey"
+author: spikey
 ---
 
 Zu aller erst dieses Problem betrifft nur Spieler, welche vor 11/2022 das erste Mal auf Foxcraft gespielt haben. Gehörst du nicht dazu, dann kannst du dies hier getrost ignorieren. Auch wenn du bereits einer Stadt beigetreten oder eine eigene über Towny gegründet hast.
