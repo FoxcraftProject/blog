@@ -15,8 +15,7 @@ author: "spikey"
 
 Zu aller erst dieses Problem betrifft nur Spieler, welche vor 11/2022 das erste Mal auf Foxcraft gespielt haben. Gehörst du nicht dazu, dann kannst du dies hier getrost ignorieren. Auch wenn du bereits einer Stadt beigetreten oder eine eigene über Towny gegründet hast.
 
-
-<!-- ## Was ist eigentlich "Claim Chunk"?
+## Was ist eigentlich "Claim Chunk"?
 
 Claim Chunk ist ein Anti-Griefing Plugin, welches wir vor Towny verwendet haben. Da wir dann aber zu Towny gewechselt sind, welches viel mehr Features und Einstellungen bereithält, tun wir es nun entfernen.\
 Dennoch ist *Claim Chunk* alles andere als schlecht, aber Towny eignet sich besser, für was ich mit Foxcraft geplant habe.
@@ -33,8 +32,7 @@ Towny bietet unter anderem folgende Features:
 - Mehrere Städte schließen sich in Nationen zusammen
 - mehr...
 
-Du kannst mehr über *Towny* [hier](https://spikey.biz/39va) erfahren. -->
-
+Du kannst mehr über *Towny* [hier](https://spikey.biz/39va) erfahren.
 
 ## Was ist jetzt Los?
 
@@ -45,7 +43,6 @@ Es gab mehr als genug Zeit und auch für Spieler die kein Englisch sprechen gab 
 
 Viel Spaß auf Foxcraft\
 Euer Spikey
-
 
 ## FAQ
 
