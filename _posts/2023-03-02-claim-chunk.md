@@ -1,5 +1,5 @@
 ---
-title: "Bye bye Claim Chunk!"
+title: "Bye bye Claim Chunk"
 date: 2023-03-02 15:04:00
 excerpt: Claim Chunk verabschiedet sich von Foxcraft, also haltet euch lieber ran zu Towny zu welchseln, wenn ihr es noch nicht getan habt!
 categories:
