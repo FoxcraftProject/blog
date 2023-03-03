@@ -165,7 +165,7 @@ masthead_title           : Blog # overrides the website title displayed in the m
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : giscus # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : "giscus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -184,13 +184,13 @@ comments:
     category_id          : "DIC_kwDOImhuzc4CTCxd" # Shown during giscus setup at https://giscus.app
     discussion_term      : "pathname" # "pathname" (default), "url", "title", "og:title"
     reactions_enabled    : 1 # '1' for enabled (default), '0' for disabled
-    theme                : transparent_dark # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
+    theme                : "dark" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
   staticman:
     branch               : # "master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
 reCaptcha:
-  siteKey                : 6Ld2toQeAAAAAGpjz7Vh6Ht0vvKp6GkPDcfqbGir
-  secret                 : ${{ secrets.GOOGLE_RECAPTCHA }}
+  siteKey                : #6Ld2toQeAAAAAGpjz7Vh6Ht0vvKp6GkPDcfqbGir
+  secret                 : #${{ secrets.GOOGLE_RECAPTCHA }}
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
