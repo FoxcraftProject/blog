@@ -59,6 +59,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-github-metadata
 
 author:
   name   : "Foxcraft Project"
@@ -220,4 +221,4 @@ analytics:
     tracking_id          : "G-4HRFRB0MW8"
     anonymize_ip         : true # true, false (default)
 
-github: [metadata]
+# github: [metadata]

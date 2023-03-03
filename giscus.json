@@ -1,4 +1,7 @@
 {
-    "origins": ["https://blog.mcfoxcraft.de"],
+    "origins": [
+        "https://blog.mcfoxcraft.de",
+        "https://mcfoxcraft.de"
+    ],
     "defaultCommentOrder": "newest"
 }
