@@ -1,7 +1,7 @@
 ---
 title: "Spielershops, Foxcraft Wiki & mehr..."
 date: 2023-03-04 18:41:00
-excerpt: 
+excerpt: Es Neuigkeiten zu Foxcraft über Spielershops, das Wiki & mehr.
 categories:
   - Plugins
   - Towny
