@@ -1,7 +1,7 @@
 ---
 title: "Spielershops, Foxcraft Wiki & mehr..."
 date: 2023-03-04 18:41:00
-excerpt: Es Neuigkeiten zu Foxcraft über Spielershops, das Wiki & mehr.
+excerpt: "Es Neuigkeiten zu Foxcraft über Spielershops, das Wiki & mehr."
 categories:
   - Plugins
   - Towny
@@ -50,17 +50,17 @@ Per Befehl (bzw. Chat Inteface für Java Spieler) kannst du dich auch per Discor
 **Befehle:**
 - /qs discord
   - notify-shop-out-of-space 
-    > Benachrichtigt dich wenn der Shop voll ist.
+  > Benachrichtigt dich wenn der Shop voll ist.
   - notify-shop-out-of-stock
-    > Benachrichtigt dich wenn der Shop leer ist.
+  > Benachrichtigt dich wenn der Shop leer ist.
   - notify-shop-permission-changed
-    > Benachrichtigt dich wenn die Shop-Berechtigungen geändert wurden
+  > Benachrichtigt dich wenn die Shop-Berechtigungen geändert wurden
   - notify-shop-price-changed
-    > Benachrichtigt dich wenn der Shop Preis geändert wurde
+  > Benachrichtigt dich wenn der Shop Preis geändert wurde
   - notify-shop-purchase
-    > Benachrichtigt dich wenn etwas im Shop gekauft wurde
+  > Benachrichtigt dich wenn etwas im Shop gekauft wurde
   - notify-shop-transfer
-    > Benachrichtigt dich wenn dein Shop an jemand anderen übertragen wurde
+  > Benachrichtigt dich wenn dein Shop an jemand anderen übertragen wurde
 
 <!-- omit in toc -->
 # Neue Münzen
