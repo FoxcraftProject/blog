@@ -16,6 +16,7 @@ author: "spikey"
 ---
 
 Es gibt ein paar Änderungen und Ankündigungen zu Foxcraft unter anderem folgende:
+
 - [Spieler können jetzt Shops erstellen](#spielershops)
 - [Es gibt jetzt Kupfermünzen!](#neue-münzen)
 - [Das Wiki wechselt den Ort](#baldige-änderungen-im-wiki)
@@ -23,6 +24,7 @@ Es gibt ein paar Änderungen und Ankündigungen zu Foxcraft unter anderem folgen
 <!-- omit in toc -->
 # Spielershops
 Ihr könnt jetzt eigene Shops erstellen.
+
 ## Wie?
 Das geht ganz einfach:
 
