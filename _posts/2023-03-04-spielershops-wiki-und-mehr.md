@@ -20,7 +20,6 @@ Es gibt ein paar Änderungen und Ankündigungen zu Foxcraft unter anderem folgen
 - [Es gibt jetzt Kupfermünzen!](#neue-münzen)
 - [Das Wiki wechselt den Ort](#baldige-änderungen-im-wiki)
 
-
 <!-- omit in toc -->
 # Spielershops
 Ihr könnt jetzt eigene Shops erstellen.
@@ -60,7 +59,6 @@ Per Befehl (bzw. Chat Inteface für Java Spieler) kannst du dich auch per Discor
     > Benachrichtigt dich wenn etwas im Shop gekauft wurde
   - notify-shop-transfer
     > Benachrichtigt dich wenn dein Shop an jemand anderen übertragen wurde
-
 
 <!-- omit in toc -->
 # Neue Münzen
