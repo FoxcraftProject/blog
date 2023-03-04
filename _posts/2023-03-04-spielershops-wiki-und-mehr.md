@@ -1,6 +1,6 @@
 ---
 title: "Spielershops, Foxcraft Wiki & mehr..."
-date: 2023-03-04
+date: 2023-03-04 18:41:00
 excerpt: 
 categories:
   - Plugins
